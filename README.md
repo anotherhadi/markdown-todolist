@@ -8,7 +8,7 @@ Markdown todolist is a system for creating and managing todolists in markdown.
 - The first H1 is the title of the todo list
 - H2s are lists
 - Task items are list to-do items:
-  - Task can have 6 states:
+  - Task can have 5 states:
     - `- [ ]` Not started
     - `- [x]` Completed
     - `- [>]` In progress
